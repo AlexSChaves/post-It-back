@@ -1,0 +1,1 @@
+{"version":3,"file":"DeletePostService.js","sourceRoot":"","sources":["../../src/services/DeletePostService.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;AAAA,uDAAqC;AAMrC,MAAM,iBAAiB;IAChB,OAAO,CAAC,EAAE,EAAE,EAAe;;YAChC,MAAM,IAAI,GAAG,MAAM,gBAAY,CAAC,IAAI,CAAC,MAAM,CAAC,EAAE,KAAK,EAAE,EAAE,EAAE,EAAE,EAAE,CAAC,CAAC;YAC/D,OAAO,IAAI,CAAC;QACb,CAAC;KAAA;CACD;AAEQ,8CAAiB"}
