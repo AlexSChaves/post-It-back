@@ -1,2 +1,8 @@
-# post-It-back
-# post-It-back
+Projeto Pessoal BackEnd (em andamento), feito em conjunto com o [Post-It-Front](https://github.com/AlexSChaves/post-it-front)
+
+## Script 
+
+No diretório do projeto, rode o comando abaixo:
+
+### `npm install`
+### `npm start`
